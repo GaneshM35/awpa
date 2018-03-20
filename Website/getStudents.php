@@ -24,9 +24,9 @@ foreach ($rs as $students) {
                 <td>' . $i . '</td>
                 <td>' . $students->RegNo . '</td>
                 <td>' . $students->Name . '</td>
-                <td><input type="text" style="width : 50%;" name="wh' . $students->RegNo . '"></td>
-                <td><input type="text" style="width : 50%;" name="pr' . $students->RegNo . '"></td>
-                <td><input type="text" style="width : 50%;" name="ma' . $students->RegNo . '"></td>
+                <td><input type="text" style="width : 50%;" name="wh' . $i . '"></td>
+                <td><input type="text" style="width : 50%;" name="pr' . $i . '"></td>
+                <td><input type="text" style="width : 50%;" name="ma' . $i . '"></td>
                 <td></td>
             </tr>';
     $i++;

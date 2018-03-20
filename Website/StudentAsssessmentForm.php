@@ -115,13 +115,13 @@
                         <select class="form-control" id="period">
                            <option>Select
                            </option>
-                           <option>1st
+                           <option>1
                            </option>
-                           <option>2nd
+                           <option>2
                            </option>
-                           <option>3rd
+                           <option>3
                            </option>
-                           <option>4th
+                           <option>4
                            </option>
                         </select>
                      </div>
@@ -177,6 +177,8 @@
                               <option>EC6016 - Opto Electronic Devices
                               </option>
                               <option>EC6009 - Advanced Computer Architecture
+                              </option>
+                              <option>CS6008 - Human Computer Interaction
                               </option>
                            </select>
                         </div>
